@@ -22,15 +22,15 @@ A project I use to publish open-source libraries and also do commission work. Hi
 
 ### **Our open-source libraries/plugins**
 
-[<img src="assets/digitalgui.png" height="128px">](https://github.com/DigitalityDev/DigitalGUI)
+[<img src="assets/digitalgui.png" height="96px">](https://github.com/DigitalityDev/DigitalGUI)
 
 Spigot GUI library focusing on QOL of the developers by making it as easy-to-use and readable as possible!
 
-[<img src="assets/digitalconfig.png" height="128px">](https://github.com/DigitalityDev/DigitalConfig)
+[<img src="assets/digitalconfig.png" height="96px">](https://github.com/DigitalityDev/DigitalConfig)
 
 The most versatile config library, even for non-spigot projects, supporting a lot of config formats while still being easy-to-use and clean.
 
-[<img src="assets/velocitycommands.png" height="128px">](https://github.com/DigitalityDev/VelocityCommands)
+[<img src="assets/velocitycommands.png" height="96px">](https://github.com/DigitalityDev/VelocityCommands)
 
 Velocity plugin for easy command alias management in a single config file! Useful for disabling commands, or making simple commands like /discord, /vote, etc.
 
