@@ -8,7 +8,7 @@
 # 🙋‍♂️ About me
 
 I am from **Slovakia**, currently studying **Computer Science** in Prague, using the Central European Time. I have extensive expertise in **Minecraft plugins, Discord bots and Website development**.
-I have **8 years** of experience developing **Minecraft plugins**, around **5 years** of experience with **Discord bots**, especially JDA, and **3 years** of experience using **Vue and React**, 
+I have **8 years** of experience developing **Minecraft plugins**, around **5 years** of experience with **Discord bots**, especially JDA, and **3 years** of experience using **Vue and React**.
 
 # 💡 Skills
 
