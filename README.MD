@@ -14,26 +14,6 @@ I am from **Slovakia**, currently studying **Computer Science** in Prague, using
 <img src="assets/spigot.png" height="128px"><img src="assets/jda.png" height="128px"><img src="assets/react.png" height="128px"><img src="assets/vue.png" height="128px">
 
 # ⚙️ My Projects
-## 👷 Owner of Digitality
-A project I use to publish open-source libraries and also do commission work. Hit me up!
-
-[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=devbox&logoColor=white&color=%232596be)](https://digitality.dev)
-[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YMr4gGR7aV)
-
-### **Our open-source libraries/plugins**
-
-[<img src="assets/digitalgui.png?v=2" height="128px">](https://github.com/DigitalityDev/DigitalGUI)
-
-Spigot GUI library focusing on QOL of the developers by making it as easy-to-use and readable as possible!
-
-[<img src="assets/digitalconfig.png?v=2" height="128px">](https://github.com/DigitalityDev/DigitalConfig)
-
-The most versatile config library, even for non-spigot projects, supporting a lot of config formats while still being easy-to-use and clean.
-
-[<img src="assets/velocitycommands.png?v=2" height="128px">](https://github.com/DigitalityDev/VelocityCommands)
-
-Velocity plugin for easy command alias management in a single config file! Useful for disabling commands, or making simple commands like /discord, /vote, etc.
-
 ## ☁️ Owner of HostNow
 A Czech webhosting company offering free hosting for small projects.
 Discord bots, Minecraft servers are coming soon!
@@ -51,6 +31,26 @@ Fully custom Minecraft server featuring PvP minigames and RPG gamemodes.
 A university browser extension to make an extremely ugly homework website usable.
 
 [![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=proton&logoColor=white&color=%231c1f1f)](https://github.com/progtest-theme/progtest-theme)
+
+## 👷 Owner of Digitality
+A project I use to publish open-source libraries and also do commission work. Hit me up!
+
+[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=devbox&logoColor=white&color=%232596be)](https://digitality.dev)
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YMr4gGR7aV)
+
+### **Our open-source libraries/plugins**
+
+[<img src="assets/digitalgui.png?v=2" height="128px">](https://github.com/DigitalityDev/DigitalGUI)
+
+[DigitalGUI](https://github.com/DigitalityDev/DigitalGUI) is a spigot GUI library focusing on QOL of the developers by making it as easy-to-use and readable as possible!
+
+[<img src="assets/digitalconfig.png?v=2" height="128px">](https://github.com/DigitalityDev/DigitalConfig)
+
+[DigitalConfig](https://github.com/DigitalityDev/DigitalConfig) is the most versatile config library, even for non-spigot projects, supporting a lot of config formats while still being easy-to-use and clean.
+
+[<img src="assets/velocitycommands.png?v=2" height="128px">](https://github.com/DigitalityDev/VelocityCommands)
+
+[VelocityCommands](https://github.com/DigitalityDev/VelocityCommands) is a Velocity plugin for easy command alias management in a single config file! Useful for disabling commands, or making simple commands like /discord, /vote, etc.
 
 ## 🔨 I've contributed to
 
