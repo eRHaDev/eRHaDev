@@ -8,7 +8,9 @@
 # 🙋‍♂️ About me
 
 I am from **Slovakia**, currently studying **Computer Science** in Prague, using the Central European Time. I have extensive expertise in **Minecraft plugins, Discord bots and Website development**.
+
 I have **8 years** of experience developing **Minecraft plugins**, around **5 years** of experience with **Discord bots**, especially JDA, and **3 years** of experience using **Vue and React**.
+
 Though not a project of my own, I also gained a lot of experience with **heavy Java obfuscation**, mainly by working on a fork of [Native obfuscator](https://github.com/eRHaDev/native-obfuscator).
 
 # 💡 Skills
@@ -18,7 +20,8 @@ Though not a project of my own, I also gained a lot of experience with **heavy J
 # ⚙️ My Projects
 ## ☁️ Owner of HostNow
 A Czech webhosting company offering free hosting for small projects.
-Discord bots, Minecraft servers are coming soon!
+
+Discord bots and Minecraft servers are coming soon!
 
 [![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=icloud&logoColor=white&color=1a36cd)](https://hostnow.cz)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m7cmqbcDrs)
