@@ -7,7 +7,7 @@
 
 # 🙋‍♂️ About me
 
-I am from Slovakia, currently studying Computer Science in Prague, using the Central European Time, UTC+1 🌎. I have extensive expertise in Minecraft plugins, Website development and Discord bots.
+I am from **Slovakia**, currently studying **Computer Science** in Prague, using the Central European Time. I have extensive expertise in **Minecraft plugins, Discord bots and Website development**.
 
 # 💡 Skills
 
