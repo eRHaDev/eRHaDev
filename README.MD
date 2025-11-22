@@ -8,6 +8,7 @@
 # 🙋‍♂️ About me
 
 I am from **Slovakia**, currently studying **Computer Science** in Prague, using the Central European Time. I have extensive expertise in **Minecraft plugins, Discord bots and Website development**.
+I have **8 years** of experience developing **Minecraft plugins**, around **5 years** of experience with **Discord bots**, especially JDA, and **3 years** of experience using **Vue and React**, 
 
 # 💡 Skills
 
@@ -38,7 +39,7 @@ A project I use to publish open-source libraries and also do commission work. Hi
 [![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=devbox&logoColor=white&color=%232596be)](https://digitality.dev)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YMr4gGR7aV)
 
-### **Our open-source libraries/plugins**
+### Our open-source libraries/plugins
 
 [<img src="assets/digitalgui.png?v=2" height="128px">](https://github.com/DigitalityDev/DigitalGUI)
 
@@ -51,6 +52,48 @@ A project I use to publish open-source libraries and also do commission work. Hi
 [<img src="assets/velocitycommands.png?v=2" height="128px">](https://github.com/DigitalityDev/VelocityCommands)
 
 [VelocityCommands](https://github.com/DigitalityDev/VelocityCommands) is a Velocity plugin for easy command alias management in a single config file! Useful for disabling commands, or making simple commands like /discord, /vote, etc.
+
+### Showcase of commissions
+
+**Digitality DiscordBot**
+This closed-source DiscordBot is used on all my projects, which handles the whole Discord server management.
+
+<details>
+<summary>Features</summary>
+
+**General Commands**
+- Avatar
+- Emote info
+- Temporary voicechat management
+- Suggestions
+
+**Economy Commands**
+- Pets
+- Daily rewards
+- Quizes
+
+**Fun Commands**
+- ChatBot
+- Dice
+- Random Fact
+- Overlay generator
+
+**Moderation Commands**
+- Ban
+- Kick
+- Mute
+
+**Admin Commands**
+- Giveaways
+- Invite logging
+- Channel management
+</details>
+
+**LabsBot**
+[LabsBot](https://github.com/DigitalityDev/LabsBot) is a Discord bot for a commission Discord server to handle commission and freelancer management.
+
+**RadioBot**
+[RadioBot](https://github.com/DigitalityDev/RadioBot) is a custom radio bot for a community server, including a whole range of radio features.
 
 ## 🔨 I've contributed to
 
