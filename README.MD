@@ -9,6 +9,7 @@
 
 I am from **Slovakia**, currently studying **Computer Science** in Prague, using the Central European Time. I have extensive expertise in **Minecraft plugins, Discord bots and Website development**.
 I have **8 years** of experience developing **Minecraft plugins**, around **5 years** of experience with **Discord bots**, especially JDA, and **3 years** of experience using **Vue and React**.
+Though not a project of my own, I also gained a lot of experience with **heavy Java obfuscation**, mainly by working on a fork of **Native obfuscator** (see below).
 
 # 💡 Skills
 
@@ -105,3 +106,4 @@ This closed-source DiscordBot is used on all my projects, which handles the whol
 
 [<img src="assets/pandaspigot.png" height="128px">](https://github.com/hpfxd/PandaSpigot/pulls?q=author%3AeRHaDev)
 [<img src="assets/packetevents.png" height="128px">](https://github.com/retrooper/packetevents/pulls?q=author%3AeRHaDev)
+[<img src="assets/nativeobfuscator.png" height="128px">](https://github.com/eRHaDev/native-obfuscator)
