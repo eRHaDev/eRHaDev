@@ -50,7 +50,7 @@ Fully custom Minecraft server featuring PvP minigames and RPG gamemodes.
 ## ⌨️ Maintainer of Progtest-theme
 A university browser extension to make an extremely ugly homework website usable.
 
-[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=proton&logoColor=white&color=%231c1f1f](https://github.com/progtest-theme/progtest-theme)
+[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=proton&logoColor=white&color=%231c1f1f)](https://github.com/progtest-theme/progtest-theme)
 
 ## 🔨 I've contributed to
 
