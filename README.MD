@@ -1,4 +1,4 @@
-# Hi there 👋, my name is **Robert**!
+# Hi there 👋! My name is **Robert**.
 
 [![Static Badge](https://img.shields.io/badge/Email-Email?style=for-the-badge&logo=minutemailer&logoColor=white&color=%23396CB2)](mailto:robert.hanecak@hostnow.cz)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1125454297325375498)
@@ -17,7 +17,7 @@ I am from **Slovakia**, currently studying **Computer Science** in Prague, using
 ## 👷 Owner of Digitality
 A project I use to publish open-source libraries and also do commission work. Hit me up!
 
-![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=devbox&logoColor=white&color=%232596be&link=https%3A%2F%2Fdigitality.dev)
+[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=devbox&logoColor=white&color=%232596be)](https://digitality.dev)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YMr4gGR7aV)
 
 ### **Our open-source libraries/plugins**
@@ -38,19 +38,19 @@ Velocity plugin for easy command alias management in a single config file! Usefu
 A Czech webhosting company offering free hosting for small projects.
 Discord bots, Minecraft servers are coming soon!
 
-![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=icloud&logoColor=white&color=1a36cd&link=https%3A%2F%2Fhostnow.cz)
+[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=icloud&logoColor=white&color=1a36cd)](https://hostnow.cz)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m7cmqbcDrs)
 
 ## ⛏️ Owner of Gold-Zone
 Fully custom Minecraft server featuring PvP minigames and RPG gamemodes.
 
-![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=googledisplayandvideo360&logoColor=black&color=%23fbbe06&link=https%3A%2F%2Fgold-zone.cz)
+[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=googledisplayandvideo360&logoColor=black&color=%23fbbe06)](https://gold-zone.cz)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yr8tNf2nFm)
 
 ## ⌨️ Maintainer of Progtest-theme
 A university browser extension to make an extremely ugly homework website usable.
 
-![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=proton&logoColor=white&color=%231c1f1f&link=https%3A%2F%2Fgithub.com%2Fprogtest-theme%2Fprogtest-theme)
+[![Static Badge](https://img.shields.io/badge/CHECK%20IT%20OUT-HostNow?style=for-the-badge&logo=proton&logoColor=white&color=%231c1f1f](https://github.com/progtest-theme/progtest-theme)
 
 ## 🔨 I've contributed to
 
