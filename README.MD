@@ -56,9 +56,11 @@ A project I use to publish open-source libraries and also do commission work. Hi
 ### Showcase of commissions
 
 **Digitality DiscordBot**
+
 This closed-source DiscordBot is used on all my projects, which handles the whole Discord server management.
 
 <details>
+
 <summary>Features</summary>
 
 **General Commands**
@@ -89,10 +91,14 @@ This closed-source DiscordBot is used on all my projects, which handles the whol
 - Channel management
 </details>
 
+
 **LabsBot**
+
 [LabsBot](https://github.com/DigitalityDev/LabsBot) is a Discord bot for a commission Discord server to handle commission and freelancer management.
 
+
 **RadioBot**
+
 [RadioBot](https://github.com/DigitalityDev/RadioBot) is a custom radio bot for a community server, including a whole range of radio features.
 
 ## 🔨 I've contributed to
