@@ -1,6 +1,6 @@
 # Hi there 👋! My name is **Robert**.
 
-[![Static Badge](https://img.shields.io/badge/Email-Email?style=for-the-badge&logo=minutemailer&logoColor=white&color=%23396CB2)](mailto:robert.hanecak@hostnow.cz)
+[![Static Badge](https://img.shields.io/badge/Email-Email?style=for-the-badge&logo=minutemailer&logoColor=white&color=%23396CB2)](mailto:robert.hanecak@proton.me)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1125454297325375498)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erha.dev)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sia6qs4k54id7vjuuhex7uclja?si=124d9fb3e5dd4cb1)
